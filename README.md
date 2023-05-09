@@ -21,7 +21,7 @@ Xcode installed if you're using a Mac
 
 Installation steps
 ==============
-Clone the repository to your local machine: git clone https://github.com/DenethAnjanaPerera/TaxiLK.git
+Clone the repository to your local machine: git clone https://github.com/DivineWolverine/Excalibur-Rider
 Open the project in your preferred code editor & install the necessary dependencies: flutter pub get
 Run the app on your emulator or physical device: flutter run
 Note: If you're running the app on an Android device, you may need to run the following command to ensure that the necessary Android SDK packages are installed: flutter doctor --android-licenses
